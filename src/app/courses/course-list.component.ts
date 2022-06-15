@@ -14,7 +14,7 @@ export class CourseListComponent implements OnInit{
             {
                 id: 1,
                 name: 'Curso de Pulinho',
-                imageUrl: '',
+                imageUrl: '/assets/images/forms.png',
                 price: 99.99,
                 code: 'XRAY-365',
                 duration: 120,
@@ -24,7 +24,7 @@ export class CourseListComponent implements OnInit{
             {
                 id: 2,
                 name: 'Curso de Eject',
-                imageUrl: '',
+                imageUrl: '/assets/images/http.png',
                 price: 45.99,
                 code: 'XRAY-322',
                 duration: 80,
